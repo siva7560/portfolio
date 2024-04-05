@@ -257,6 +257,9 @@ button{
 .navbar{
     width: 100%;
 }
+    .tech,.soft{
+    margin-top: 20px;
+}
 }
 
 
